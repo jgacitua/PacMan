@@ -3,7 +3,7 @@ package pacman.game.internal;
 import pacman.game.Constants.MOVE;
 
 /*
- * Data structure to hold all information pertaining to Ms Pac-Man. oli
+ * Data structure to hold all information pertaining to Ms Pac-Man. oli  dfgd
  */
 public final class PacMan
 {
